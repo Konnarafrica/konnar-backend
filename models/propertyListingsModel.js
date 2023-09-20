@@ -32,18 +32,18 @@ const propertyListingsSchema = new mongoose.Schema(
     },
     agent: [
       {
-        type: Schema.Types.ObjectId,
+        type: mongoose.Schema.Types.ObjectId,
         ref: "agents",
       },
     ],
     location: {
       lat: {
         type: Number,
-        required: true,
+
       },
       long: {
         type: Number,
-        required: true,
+        
       },
     },
     availability_status: {
@@ -54,10 +54,10 @@ const propertyListingsSchema = new mongoose.Schema(
   { timestamps: true }
 );
 
-const propertyListings = mongoose.model(
+const propertyListingsModel = mongoose.model(
   "PropertyListings",
   propertyListingsSchema
 );
 
-export default propertyListings;
+export default propertyListingsModel;
 
