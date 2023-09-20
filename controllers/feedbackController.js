@@ -6,12 +6,10 @@ export const addFeedback = async (req, res) => {
   const { feedback_message } = req.body;
 
   if (id === null)
-    return res
-      .status(403)
-      .json({
-        error:
-          "sorry you cannot cannot perform this action because it looks like you are not logged in...",
-      });
+    return res.status(403).json({
+      error:
+        "sorry you cannot cannot perform this action because it looks like you are not logged in...",
+    });
 
   try {
     const user_with_feedback = await userModel.findById(id);
@@ -22,13 +20,16 @@ export const addFeedback = async (req, res) => {
       });
 
       await newFeedback.save();
-      res.status(200).json({ message: "Thanks for your feedback" });
+      res
+        .status(200)
+        .json({
+          message:
+            "Your feedback has successfully been recieved, it will be reviewed.",
+        });
     } else {
       res.status(404).json({ error: "User does not exist..." });
     }
   } catch (error) {
     res.status(500).json({ error: error.message });
   }
-
-  console.log(feedback_message);
 };
