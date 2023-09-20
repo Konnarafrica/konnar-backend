@@ -1,4 +1,4 @@
-import mongoose, { Schema, mongo } from "mongoose";
+import mongoose from "mongoose";
 
 const propertyListingsSchema = new mongoose.Schema(
   {
@@ -60,3 +60,4 @@ const propertyListings = mongoose.model(
 );
 
 export default propertyListings;
+

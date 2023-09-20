@@ -6,7 +6,7 @@ const userSchema = new mongoose.Schema(
       type: String,
       required: true,
     },
-    email_address: {
+    email: {
       type: String,
       unique: true,
       required: true,
@@ -19,7 +19,15 @@ const userSchema = new mongoose.Schema(
     password: {
       type: String,
       required: true,
-    },
+        },
+        status: {
+            type: String,
+            default: "Individual"
+        },
+        isAdmin: {
+            type: Boolean,
+            default: false
+        }
   },
   { timestamps: true }
 );
