@@ -3,7 +3,7 @@ import bcrypt from "bcrypt";
 import jwt from "jsonwebtoken";
 
 
-// Sign Up
+// Sign Up...
 export const signUpUser = async (req, res) => {
   const { fullname, email, phone_number, password, status, isAdmin } = req.body;
 
@@ -34,6 +34,7 @@ export const signUpUser = async (req, res) => {
         .json({ message: "user already exits..try another username" });
 
     await newUser.save();
+
     res
       .status(200)
       .json({ message: "user created successfully...", user: newUser });
@@ -42,7 +43,7 @@ export const signUpUser = async (req, res) => {
   }
 };
 
-// Sign In 
+// Sign In...
 export const signInUser = async (req, res) => {
   const { email, password } = req.body;
 
