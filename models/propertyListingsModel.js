@@ -22,28 +22,13 @@ const propertyListingsSchema = new mongoose.Schema(
       type: Array,
       required: true,
     },
-    cost_name: {
-      type: String,
-      required: true,
-    },
-    amount: {
-      type: Number,
-      required: true,
-    },
-    agent: [
-      {
-        type: mongoose.Schema.Types.ObjectId,
-        ref: "agents",
-      },
-    ],
+    cost_name: [],
     location: {
       lat: {
         type: Number,
-
       },
       long: {
         type: Number,
-        
       },
     },
     availability_status: {
@@ -60,4 +45,3 @@ const propertyListingsModel = mongoose.model(
 );
 
 export default propertyListingsModel;
-

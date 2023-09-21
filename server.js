@@ -9,6 +9,7 @@ dotenv.config();
 import authRoute from './routes/authRoute.js';
 import feedbackRoute from './routes/feedbackRoute.js'
 import propertyListingRoute from './routes/propertyListingRoute.js'
+import agentRoute from './routes/agentRoute.js';
 
 const app = express();
 const PORT = process.env.PORT || 9000;
@@ -23,6 +24,7 @@ app.use(cors());
 app.use('/auth', authRoute);
 app.use('/feedback', feedbackRoute);
 app.use('/property', propertyListingRoute);
+app.use('/agent', agentRoute);
 
 
 const startServer = async () => {
