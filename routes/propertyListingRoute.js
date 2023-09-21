@@ -1,9 +1,12 @@
-import express from 'express';
-import { addProperty } from '../controllers/propertyListingsController.js';
+import express from "express";
+import { addPropertyListing, deletePropertyListing, getPropertyListing, getPropertyListings, updatePropertyListing } from "../controllers/propertyListingController.js";
 
 const router = express.Router();
 
-router.post('/add-property', addProperty);
-
-
+router
+  .get("/get-propertylistings", getPropertyListings)
+  .get("/get-propertylisting/:id", getPropertyListing)
+  .post("/add-propertylisting", addPropertyListing)
+    .patch("/update-propertylisting/:id", updatePropertyListing)
+  .delete("/delete-propertylisting/:id", deletePropertyListing)
 export default router;

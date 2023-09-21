@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
- 
-const propertyListingsSchema = new mongoose.Schema(
+
+const propertyListingSchema = new mongoose.Schema(
   {
     title: {
       type: String,
@@ -22,7 +22,28 @@ const propertyListingsSchema = new mongoose.Schema(
       type: Array,
       required: true,
     },
-    cost_name: [],
+    cost: {
+      rent: {
+        type: Number,
+        required: true,
+      },
+      agent_fee: {
+        type: Number,
+        required: true,
+      },
+      legal_fee: {
+        type: Number,
+        required: true,
+      },
+      security_deposit: {
+        type: Number,
+        required: true,
+      },
+    },
+    agent: {
+      type: String,
+      required: true,
+    },
     location: {
       lat: {
         type: Number,
@@ -39,9 +60,9 @@ const propertyListingsSchema = new mongoose.Schema(
   { timestamps: true }
 );
 
-const propertyListingsModel = mongoose.model(
+const propertyListingModel = mongoose.model(
   "PropertyListings",
-  propertyListingsSchema
+  propertyListingSchema
 );
 
-export default propertyListingsModel;
+export default propertyListingModel;
