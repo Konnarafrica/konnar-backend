@@ -1,6 +1,6 @@
 import propertyListingModel from "../models/propertyListingModel.js";
 
-// add post...
+// add single propertyListing...
 export const addPropertyListing = async (req, res) => {
   const {
     title,
@@ -9,6 +9,7 @@ export const addPropertyListing = async (req, res) => {
     amenities,
     property_media,
     cost,
+    agent,
     location,
     availability_status,
   } = req.body;
@@ -20,6 +21,7 @@ export const addPropertyListing = async (req, res) => {
     amenities,
     property_media,
     cost,
+    agent,
     location,
     availability_status,
   });
@@ -28,8 +30,6 @@ export const addPropertyListing = async (req, res) => {
     const existingPropertyListing = await propertyListingModel.findOne({
       description,
     });
-
-    console.log(existingPropertyListing);
 
     if (existingPropertyListing) {
       res.status(404).json({
@@ -62,6 +62,7 @@ export const addPropertyListing = async (req, res) => {
 // location: location,
 // availability_status: availability_status,
 
+// get all PropertyListings...
 export const getPropertyListings = async (req, res) => {
   try {
     const allpropertyListings = await propertyListingModel.find();
@@ -78,6 +79,7 @@ export const getPropertyListings = async (req, res) => {
   }
 };
 
+// get single propertyListing...
 export const getPropertyListing = async (req, res) => {
   const { id } = req.params;
 
@@ -96,6 +98,7 @@ export const getPropertyListing = async (req, res) => {
   }
 };
 
+// update single propertyListing...
 export const updatePropertyListing = async (req, res) => {
   const { id } = req.params;
 
@@ -117,6 +120,7 @@ export const updatePropertyListing = async (req, res) => {
   }
 };
 
+// delete single PropertyListing
 export const deletePropertyListing = async (req, res) => {
   const { id } = req.params;
 
@@ -136,3 +140,4 @@ export const deletePropertyListing = async (req, res) => {
     res.status(500).json({ error: error.message });
   }
 };
+

@@ -22,25 +22,28 @@ const propertyListingSchema = new mongoose.Schema(
       type: Array,
       required: true,
     },
-    cost:
-      {
-        rent: {
-          type: Number,
-          required: true,
-        },
-        agent_fee: {
-          type: Number,
-          required: true,
-        },
-        legal_fee: {
-          type: Number,
-          required: true,
-        },
-        security_deposit: {
-          type: Number,
-          required: true,
-        },
+    cost: {
+      rent: {
+        type: Number,
+        required: true,
       },
+      agent_fee: {
+        type: Number,
+        required: true,
+      },
+      legal_fee: {
+        type: Number,
+        required: true,
+      },
+      security_deposit: {
+        type: Number,
+        required: true,
+      },
+    },
+    agent: {
+      type: String,
+      required: true,
+    },
     location: {
       lat: {
         type: Number,
