@@ -7,7 +7,7 @@ export const getAgents = async(req,res) => {
         const agents = await agentModel.find({});
         res.status(201).json(agents)
     } catch (error) {
-        res.json({message: error.message}).status(501)
+        res.status(501).json({message: error.message})
     }
     
 
@@ -22,15 +22,15 @@ export const getAgent = async (req,res) => {
         const agent = await agentModel.findById(id)
         
         if(agent){
-            res.json(agent).status(201)
+            res.status(201).json(agent)
         }else{
-            res.json({message: "Agent with this id not found. Try again"}).status(401)
+            res.status(401).json({message: "Agent with this id not found. Try again"})
         }
 
 
         
     } catch (error) {
-        res.json({message: error.message}).status(501)
+        res.status(501).json({message: error.message})
 
     }
 
@@ -48,13 +48,13 @@ export const updateAgent = async (req,res) => {
         const agent = await agentModel.findByIdAndUpdate(id, newData )
         
         if(agent){
-            res.json({message: `Successfully updated Agent ${agentName.full_name} `}).status(201)
+            res.status(201).json({message: `Successfully updated Agent ${agentName.full_name} `})
         }else{
-            res.json({message: "Agent with this id not found. Try again"}).status(401)
+            res.status(401).json({message: "Agent with this id not found. Try again"})
         }
         
     } catch (error) {
-        res.json({error: error.message}).status(501)
+        res.status(501).json({error: error.message})
     }
 
 
@@ -72,7 +72,7 @@ export const deleteAgent = async (req,res) => {
             res.json({message: "Agent with this id not found. Try again"}).status(401)
         }
     }catch(error){
-        res.json({error: error.message}).status(501)
+        res.status(501).json({error: error.message})
     }
 
 }
