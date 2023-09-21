@@ -1,5 +1,5 @@
 import mongoose from "mongoose";
-
+ 
 const propertyListingsSchema = new mongoose.Schema(
   {
     title: {
