@@ -1,4 +1,6 @@
 import propertyListingModel from "../models/propertyListingModel.js";
+import agentModel from "../models/agentModel.js";
+import multer from "multer";
 
 // add single propertyListing...
 export const addPropertyListing = async (req, res) => {
@@ -9,7 +11,7 @@ export const addPropertyListing = async (req, res) => {
     amenities,
     property_media,
     cost,
-    agent,
+    agent_id,
     location,
     availability_status,
   } = req.body;
@@ -21,33 +23,53 @@ export const addPropertyListing = async (req, res) => {
     amenities,
     property_media,
     cost,
-    agent,
+    agent_id,
     location,
     availability_status,
   });
 
   try {
-    const existingPropertyListing = await propertyListingModel.findOne({
-      description,
+    await newPropertyListing.save();
+
+    console.log(newPropertyListing._id);
+    const agent_has_propertyListing = await agentModel.findById(agent_id);
+
+    if (!agent_has_propertyListing)
+      return res.status(404).json({ message: "couldn't find agent..." });
+
+    await agent_has_propertyListing.updateOne({
+      $push: { no_of_properties: newPropertyListing._id },
     });
-
-    if (existingPropertyListing) {
-      res.status(404).json({
-        message:
-          "sorry you cannot added this property because it already exists...",
-      });
-    } else {
-      await newPropertyListing.save();
-
-      res.status(200).json({
-        message: "property added successfully...",
-        newPropertyListing,
-      });
-    }
+    
+    res.status(200).json({
+      message: "property added successfully...",
+      newPropertyListing,
+    });
   } catch (error) {
     res.status(500).json({ error: error.message });
   }
 };
+
+// upload property media...
+// const storage = multer.diskStorage({
+//   destination: (req, file, cb) => {
+//     cb(null, "./public/images");
+//   },
+//   filename: (req, file, cb) => {
+//     cb(null, req.body);
+//   },
+// });
+
+// export const upload = multer({ storage: storage });
+
+// export const uploadPropertyListingMedia = (req, res) => {
+//   try {
+//     return res.status(200).json("File uploaded successfully");
+//   } catch (error) {
+//     console.log(error);
+//     return res.status(500).json("File uploaded failed");
+//   }
+// };
 
 // {
 //   rent, agent_fee, legal_fee, security_deposit;
@@ -134,10 +156,9 @@ export const deletePropertyListing = async (req, res) => {
         .json({ message: "failed to delete this property..." });
 
     res.status(200).json({
-      message: "property successfully deleted..."
+      message: "property successfully deleted...",
     });
   } catch (error) {
     res.status(500).json({ error: error.message });
   }
 };
-

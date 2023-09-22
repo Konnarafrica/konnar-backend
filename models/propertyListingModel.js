@@ -40,7 +40,7 @@ const propertyListingSchema = new mongoose.Schema(
         required: true,
       },
     },
-    agent: {
+    agent_id: {
       type: String,
       required: true,
     },
