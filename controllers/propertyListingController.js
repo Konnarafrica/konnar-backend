@@ -29,22 +29,40 @@ export const addPropertyListing = async (req, res) => {
   });
 
   try {
-    await newPropertyListing.save();
+    console.log(newPropertyListing._id.toString());
 
-    console.log(newPropertyListing._id);
     const agent_has_propertyListing = await agentModel.findById(agent_id);
 
-    if (!agent_has_propertyListing)
-      return res.status(404).json({ message: "couldn't find agent..." });
+    if (agent_has_propertyListing) {
+      const newPropertyListing_id = newPropertyListing._id.toString();
 
-    await agent_has_propertyListing.updateOne({
-      $push: { no_of_properties: newPropertyListing._id },
-    });
-    
-    res.status(200).json({
-      message: "property added successfully...",
-      newPropertyListing,
-    });
+      if (
+        agent_has_propertyListing.no_of_properties.includes(
+          newPropertyListing_id
+        )
+      )
+        return res.status(404).json({
+          message:
+            "cannot add this property for agent, because it already for this particular agent ...",
+        });
+
+      await agent_has_propertyListing.updateOne({
+        $push: { no_of_properties: newPropertyListing._id },
+      });
+
+      await newPropertyListing.save();
+
+      res.status(200).json({
+        message: "property added successfully...",
+        newPropertyListing,
+      });
+    } else
+      res
+        .status(404)
+        .json({
+          message:
+            "sorry could not continue with this process, it looks like this agent does not exist...",
+        });
   } catch (error) {
     res.status(500).json({ error: error.message });
   }

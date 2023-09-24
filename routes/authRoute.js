@@ -3,8 +3,8 @@ import {signInUser, signUpUser} from '../controllers/authController.js'
 
 const router = express.Router();
 
-router.post('/register', signUpUser)
-      .post('/login', signInUser)
+router.post('/register/:type', signUpUser)
+      .post('/login/:type', signInUser)
 
 
 export default router;
