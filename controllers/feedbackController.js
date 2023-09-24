@@ -20,14 +20,12 @@ export const addFeedback = async (req, res) => {
       });
 
       await newFeedback.save();
-      res
-        .status(200)
-        .json({
-          message:
-            "Your feedback has successfully been recieved, it will be reviewed.",
-        });
+      res.status(200).json({
+        message:
+          "Your feedback has successfully been recieved, it will be reviewed.",
+      });
     } else {
-      res.status(404).json({ error: "User does not exist..." });
+      res.status(404).json({ message: "User does not exist..." });
     }
   } catch (error) {
     res.status(500).json({ error: error.message });

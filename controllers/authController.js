@@ -1,6 +1,10 @@
 import userModel from "../models/userModel.js";
 import bcrypt from "bcrypt";
-import { createAccessToken, createRefreshToken } from "../utils/token.js";
+import {
+  createAccessToken,
+  createRefreshToken,
+  verifyRefreshToken,
+} from "../utils/token.js";
 
 // Sign Up...
 export const signUpUser = async (req, res) => {
@@ -37,9 +41,11 @@ export const signUpUser = async (req, res) => {
 
     await newUser.save();
 
+    const { password, refresh_token, ...safeUser } = newUser._doc;
+
     res
       .status(200)
-      .json({ message: "user created successfully...", user: newUser });
+      .json({ message: "user created successfully...", user: safeUser });
   } catch (error) {
     if (error.code === 11000)
       return res.status(403).json({
@@ -64,21 +70,16 @@ export const signInUser = async (req, res) => {
     const validity = await bcrypt.compare(password, findUser.password);
 
     if (validity) {
-      const { password, ...safeUserInfo } = findUser._doc;
+      const { password, refresh_token, ...safeUserInfo } = findUser._doc;
 
       const accessToken = createAccessToken(safeUserInfo);
       const refreshToken = createRefreshToken(safeUserInfo);
-      // findUser.refresh_token = refreshToken;
 
-      //    console.log(findUser)
-
-      // const loggedInUser = await userModel.findOne({ email });
-      // // await loggedInUser.updateOne({})
-      // console.log(loggedInUser)
+      await findUser.updateOne({ $set: { refresh_token: refreshToken } });
 
       res.cookie("refresh_token", refreshToken, {
         httpOnly: true,
-        path: "/refresh-token",
+        path: "/auth/refresh-token",
       });
 
       res.status(200).json({
@@ -95,7 +96,46 @@ export const signInUser = async (req, res) => {
 };
 
 // Sign Out
-export const signOutUser = async (req, res) => {
+export const signOutUser = (req, res) => {
   res.clearCookie("refresh_token");
   return res.status(200).json({ message: "you are now logged out" });
 };
+
+// get a refresh token...
+// export const refreshToken = async (req, res) => {
+//   const token = res.cookie.refresh_token;
+
+//   if (!token) return res.status(404).json({ access_token: "" });
+
+//   // if token exists verify token...
+//   let payload = null;
+
+//   try {
+//     payload = verifyRefreshToken;
+//   } catch (error) {
+//     return res.status(404).json({ error: "could not verify token" });
+//   }
+//   console.log(payload);
+
+//   const user = await userModel.findOne({ _id: payload._id });
+//   if (!user) return res.status(404).json({ error: "could not verify token" });
+
+//   if (user.refresh_token !== token)
+//     return res.status(404).json({
+//       message: "token mismatch",
+//       access_token: "",
+//     });
+
+//   const { password, refresh_token, ...safeUser } = user;
+//   const accessToken = createAccessToken(safeUser);
+//   const refreshToken = createRefreshToken(safeUser);
+
+//   console.log(accessToken);
+//   await user.updateOne({ $set: { refresh_token: refreshToken } });
+
+//   res.cookie("refresh_token", refreshToken);
+//   res.status(200).json({
+//     message: "access token successfully created...",
+//     access_token: accessToken,
+//   });
+// };
