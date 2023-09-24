@@ -8,6 +8,8 @@ import {
   updatePropertyListing,
 } from "../controllers/propertyListingController.js";
 
+import * as auth from "../middlewares/authMiddleware.js";
+
 const router = express.Router();
 
 const storage = multer.diskStorage({
@@ -22,9 +24,9 @@ const storage = multer.diskStorage({
 const upload = multer({ storage: storage });
 
 router
-  .get("/get-propertylistings", getPropertyListings)
-  .get("/get-propertylisting/:id", getPropertyListing)
-  .post("/add-propertylisting", addPropertyListing)
+  .get("/get-propertylistings", auth.authorize, getPropertyListings)
+  .get("/get-propertylisting/:id", auth.authorize, getPropertyListing)
+  .post("/add-propertylisting", auth.authorize, addPropertyListing)
   .post(
     "/upload-propertylistingmedia",
     upload.single("file", (req, res) => {
@@ -35,7 +37,7 @@ router
       }
     })
   )
-  .patch("/update-propertylisting/:id", updatePropertyListing)
-  .delete("/delete-propertylisting/:id", deletePropertyListing);
+  .patch("/update-propertylisting/:id", auth.authorize, updatePropertyListing)
+  .delete("/delete-propertylisting/:id", auth.authorize, deletePropertyListing);
 
 export default router;

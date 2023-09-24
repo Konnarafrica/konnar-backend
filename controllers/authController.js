@@ -81,7 +81,11 @@ export const signInUser = async (req, res) => {
         path: "/refresh-token",
       });
 
-      res.status(200).json({ user: safeUserInfo, accessToken });
+      res.status(200).json({
+        message: "you are now logged in",
+        user: safeUserInfo,
+        accessToken,
+      });
     } else {
       res.status(404).json({ message: "Incorrect Password..." });
     }
@@ -90,3 +94,8 @@ export const signInUser = async (req, res) => {
   }
 };
 
+// Sign Out
+export const signOutUser = async (req, res) => {
+  res.clearCookie("refresh_token");
+  return res.status(200).json({ message: "you are now logged out" });
+};
