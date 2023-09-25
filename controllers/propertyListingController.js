@@ -64,7 +64,7 @@ export const addPropertyListing = async (req, res) => {
             "sorry could not continue with this process, it looks like this agent does not exist...",
         });
   } catch (error) {
-    res.status(500).json({ error: error.message });
+    res.status(500).json({ error: error.message, code: error.code });
   }
 };
 
