@@ -1,14 +1,20 @@
-import express from 'express';
-import { getAgents, getAgent, updateAgent, deleteAgent , addAgent } from '../controllers/agentController.js'
+import express from "express";
+import {
+  getAgents,
+  getAgent,
+  updateAgent,
+  deleteAgent,
+  addAgent,
+} from "../controllers/agentController.js";
+
+import * as auth from "../middlewares/authMiddleware.js";
 
 const router = express.Router();
 
-
-router.get('/manage-agents', getAgents)
-router.post('/add-agent', addAgent)
-router.get('/manage-agent/:id', getAgent)
-router.patch('/update-agent/:id', updateAgent)
-router.delete('/delete-agent/:id', deleteAgent)
-
+router.get("/manage-agents",auth.authorize, getAgents);
+router.post("/add-agent", auth.authorize, addAgent);
+router.get("/manage-agent/:id", auth.authorize, getAgent);
+router.patch("/update-agent/:id", auth.authorize, updateAgent);
+router.delete("/delete-agent/:id", auth.authorize, deleteAgent);
 
 export default router;

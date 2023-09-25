@@ -14,16 +14,16 @@ import agentRoute from "./routes/agentRoute.js";
 
 const app = express();
 const PORT = process.env.PORT || 9000;
-// const corsOptions = {
-//   origin: "",
-//   credentails: true,
-// };
+const corsOptions = {
+  origin: ["https://konnar-v1.vercel.app/", "http://localhost:3000/"],
+  credentails: true,
+};
 
 // Middlewares...
 app.use(bodyParser.json({ limit: "30mb", extended: true }));
 app.use(bodyParser.urlencoded({ limit: "30mb", extended: false }));
 app.use(cookieParser());
-app.use(cors());
+app.use(cors(corsOptions));
  
 // Routes initialization...
 app.use("/auth", authRoute);

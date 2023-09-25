@@ -14,7 +14,7 @@ const agentSchema = mongoose.Schema(
         time: [String],
       },
     ],
-    no_of_properties: { type: Number },
+    no_of_properties: { type: [String] },
     area_of_operation: { type: [String] },
     reviews: [
       {

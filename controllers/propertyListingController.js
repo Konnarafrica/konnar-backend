@@ -4,6 +4,7 @@ import multer from "multer";
 
 // add single propertyListing...
 export const addPropertyListing = async (req, res) => {
+  // get data from he client...
   const {
     title,
     description,
@@ -16,6 +17,7 @@ export const addPropertyListing = async (req, res) => {
     availability_status,
   } = req.body;
 
+  //create a new instance of the property to be saved...
   const newPropertyListing = new propertyListingModel({
     title,
     description,
@@ -29,13 +31,12 @@ export const addPropertyListing = async (req, res) => {
   });
 
   try {
-    console.log(newPropertyListing._id.toString());
-
-    const agent_has_propertyListing = await agentModel.findById(agent_id);
-
+    const agent_has_propertyListing = await agentModel.findById(agent_id); //get the agent with property for showcase...
+    console.log(agent_has_propertyListing.no_of_properties);
     if (agent_has_propertyListing) {
-      const newPropertyListing_id = newPropertyListing._id.toString();
+      const newPropertyListing_id = newPropertyListing._id.toString(); //convert the mongodb objectId to plain string...
 
+      //check if the agent has this particular property for showcase already... if false then add...
       if (
         agent_has_propertyListing.no_of_properties.includes(
           newPropertyListing_id
@@ -43,28 +44,26 @@ export const addPropertyListing = async (req, res) => {
       )
         return res.status(404).json({
           message:
-            "cannot add this property for agent, because it already for this particular agent ...",
+            "cannot add this property for agent, because it already exist for this particular agent ...",
         });
-
+      // add the property for the agent ...
       await agent_has_propertyListing.updateOne({
-        $push: { no_of_properties: newPropertyListing._id },
+        $push: { no_of_properties: newPropertyListing_id },
       });
 
-      await newPropertyListing.save();
+      await newPropertyListing.save(); //if false then add...
 
       res.status(200).json({
         message: "property added successfully...",
         newPropertyListing,
       });
     } else
-      res
-        .status(404)
-        .json({
-          message:
-            "sorry could not continue with this process, it looks like this agent does not exist...",
-        });
+      res.status(404).json({
+        message:
+          "sorry could not continue with this process, it looks like this agent does not exist...",
+      });
   } catch (error) {
-    res.status(500).json({ error: error.message, code: error.code });
+    res.status(500).json({ error: error.message });
   }
 };
 
@@ -105,7 +104,7 @@ export const addPropertyListing = async (req, res) => {
 // get all PropertyListings...
 export const getPropertyListings = async (req, res) => {
   try {
-    const allpropertyListings = await propertyListingModel.find();
+    const allpropertyListings = await propertyListingModel.find(); //find all properties from the database...
     if (!allpropertyListings)
       return res
         .status(404)
@@ -121,10 +120,10 @@ export const getPropertyListings = async (req, res) => {
 
 // get single propertyListing...
 export const getPropertyListing = async (req, res) => {
-  const { id } = req.params;
+  const { id } = req.params; //get id parameter
 
   try {
-    const propertylisting = await propertyListingModel.findById(id);
+    const propertylisting = await propertyListingModel.findById(id); //find property with this id...
     if (!propertylisting)
       return res
         .status(404)
@@ -140,11 +139,11 @@ export const getPropertyListing = async (req, res) => {
 
 // update single propertyListing...
 export const updatePropertyListing = async (req, res) => {
-  const { id } = req.params;
+  const { id } = req.params; //get id parameter...
 
   try {
     const propertyListing_to_be_updated =
-      await propertyListingModel.findByIdAndUpdate(id, req.body, { new: true });
+      await propertyListingModel.findByIdAndUpdate(id, req.body, { new: true }); //find and update property
 
     if (!propertyListing_to_be_updated)
       return res
@@ -162,11 +161,11 @@ export const updatePropertyListing = async (req, res) => {
 
 // delete single PropertyListing
 export const deletePropertyListing = async (req, res) => {
-  const { id } = req.params;
+  const { id } = req.params; //get id params...
 
   try {
     const propertyListing_to_be_deleted =
-      await propertyListingModel.findByIdAndDelete(id);
+      await propertyListingModel.findByIdAndDelete(id); //find property and delete it...
 
     if (!propertyListing_to_be_deleted)
       return res
