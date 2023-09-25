@@ -9,5 +9,13 @@ export const createRefreshToken = (user) =>
 export const verifyRefreshToken = (token) =>
   jwt.verify(token, process.env.JWT_REFRESH_TOKEN_SECRET);
 
-export const verifyAccessToken = (token) =>
-  jwt.verify(token, process.env.JWT_ACCESS_TOKEN_SECRET);
+export const verifyAccessToken = (token, req, res, next) =>
+  jwt.verify(token, process.env.JWT_ACCESS_TOKEN_SECRET, (err, decode) => {
+    if (err) {
+            res.status(401).send({ message: "Invalid Token" });
+    } else {
+      console.log(decode)
+            req.user = decode;
+            next();
+          }
+  });

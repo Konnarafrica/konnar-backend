@@ -5,11 +5,6 @@ export const addFeedback = async (req, res) => {
   const id = req.params.id;//get id params...
   const { feedback_message } = req.body;//get data from client...
 // check if the id params exists 
-  if (id === null)
-    return res.status(403).json({
-      error:
-        "sorry you cannot cannot perform this action because it looks like you are not logged in...",
-    });
 
   try {
     const user_with_feedback = await userModel.findById(id); //get the user making the feedback...

@@ -4,6 +4,11 @@ import multer from "multer";
 
 // add single propertyListing...
 export const addPropertyListing = async (req, res) => {
+  if (!req.user.isAdmin)
+    return res
+      .status(403)
+      .json({ message: "only admins can perform this operation..." });
+
   // get data from he client...
   const {
     title,
@@ -32,7 +37,7 @@ export const addPropertyListing = async (req, res) => {
 
   try {
     const agent_has_propertyListing = await agentModel.findById(agent_id); //get the agent with property for showcase...
-    console.log(agent_has_propertyListing.no_of_properties);
+    // console.log(agent_has_propertyListing)
     if (agent_has_propertyListing) {
       const newPropertyListing_id = newPropertyListing._id.toString(); //convert the mongodb objectId to plain string...
 
@@ -139,6 +144,11 @@ export const getPropertyListing = async (req, res) => {
 
 // update single propertyListing...
 export const updatePropertyListing = async (req, res) => {
+  if (!req.user.isAdmin)
+    return res
+      .status(403)
+      .json({ message: "only admins can perform this operation..." });
+
   const { id } = req.params; //get id parameter...
 
   try {
@@ -161,6 +171,11 @@ export const updatePropertyListing = async (req, res) => {
 
 // delete single PropertyListing
 export const deletePropertyListing = async (req, res) => {
+  if (!req.user.isAdmin)
+    return res
+      .status(403)
+      .json({ message: "only admins can perform this operation..." });
+
   const { id } = req.params; //get id params...
 
   try {
