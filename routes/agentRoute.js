@@ -17,4 +17,3 @@ router.get("/get-agent/:id", auth.authorize, getAgent);
 router.patch("/update-agent/:id", auth.authorize, updateAgent);
 router.delete("/delete-agent/:id", auth.authorize, deleteAgent);
 
-export default router;
