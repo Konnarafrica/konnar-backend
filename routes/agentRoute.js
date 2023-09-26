@@ -4,9 +4,9 @@ import { getAgents, getAgent, updateAgent, deleteAgent , addAgent } from '../con
 const router = express.Router();
 
 
-router.get('/manage-agents', getAgents)
+router.get('/get-agents', getAgents)
 router.post('/add-agent', addAgent)
-router.get('/manage-agent/:id', getAgent)
+router.get('/get-agent/:id', getAgent)
 router.patch('/update-agent/:id', updateAgent)
 router.delete('/delete-agent/:id', deleteAgent)
 

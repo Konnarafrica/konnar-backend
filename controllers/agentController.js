@@ -39,6 +39,11 @@ export const getAgent = async (req,res) => {
 }
 
 export const updateAgent = async (req,res) => {
+
+    if (!req.user.isAdmin)
+    return res
+      .status(403)
+      .json({ message: "only admins can perform this operation..." });
     
     const id = req.params.id
     const newData = req.body
@@ -61,6 +66,11 @@ export const updateAgent = async (req,res) => {
 }
 
 export const deleteAgent = async (req,res) => {
+
+    if (!req.user.isAdmin)
+    return res
+      .status(403)
+      .json({ message: "only admins can perform this operation..." });
     
     const id = req.params.id
 
@@ -81,10 +91,35 @@ export const deleteAgent = async (req,res) => {
 
 
 export const addAgent = async (req,res) => {
+
+    if (!req.user.isAdmin)
+    return res
+      .status(403)
+      .json({ message: "only admins can perform this operation..." });
     
+    const {email, phone_number} = req.body
+
+    const checkEmail = await agentModel.findOne({email: email})
+    const checkPhoneNumber = await agentModel.findOne({phone_number: phone_number})
+
+
+    // CHECK IF EMAIL EXIST 
+    if(checkEmail)
+    return res
+        .status(405)
+        .json({message: "Agent with this email already exist"})
+
+    // CHECK IF PHONE NUMBER ALREADY EXIST
+    if(checkPhoneNumber)
+    return res
+        .status(405)
+        .json({message: "Agent with this phone number already exist already exist"})
+
+
+    // console.log(data)
+
     const data = req.body
 
-    console.log(data)
 
     const newAgent = new agentModel(data)
 
