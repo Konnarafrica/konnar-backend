@@ -73,11 +73,15 @@ export const deleteAgent = async (req, res) => {
         .status(401);
     }
   } catch (error) {
-    res.status(501).json({ error: error.message });
+    res.status(500).json({ error: error.message });
   }
 };
 
 export const addAgent = async (req, res) => {
+  if (!req.user.isAdmin)
+    return res
+      .status(403)
+      .json({ message: "only admins can perform this operation..." });
   const data = req.body;
 
   console.log(data);
