@@ -14,7 +14,6 @@ export const verifyAccessToken = (token, req, res, next) =>
     if (err) {
             res.status(401).send({ message: "Invalid Token" });
     } else {
-      console.log(decode)
             req.user = decode;
             next();
           }
