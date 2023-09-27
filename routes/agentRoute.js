@@ -11,9 +11,9 @@ import * as auth from "../middlewares/authMiddleware.js";
 
 const router = express.Router();
 
-router.get("/manage-agents",auth.authorize, getAgents);
+router.get("/get-agents", auth.authorize, getAgents);
 router.post("/add-agent", auth.authorize, addAgent);
-router.get("/manage-agent/:id", auth.authorize, getAgent);
+router.get("/get-agent/:id", auth.authorize, getAgent);
 router.patch("/update-agent/:id", auth.authorize, updateAgent);
 router.delete("/delete-agent/:id", auth.authorize, deleteAgent);
 
