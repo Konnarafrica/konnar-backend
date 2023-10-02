@@ -17,6 +17,7 @@ export const addPropertyListing = async (req, res) => {
     amenities,
     property_media,
     cost,
+    area,
     agent_id,
     location,
     availability_status,
@@ -30,6 +31,7 @@ export const addPropertyListing = async (req, res) => {
     amenities,
     property_media,
     cost,
+    area,
     agent_id,
     location,
     availability_status,
@@ -193,4 +195,10 @@ export const deletePropertyListing = async (req, res) => {
   } catch (error) {
     res.status(500).json({ error: error.message });
   }
+};
+
+// upload a property media...
+
+export const uploadPropertyListingMedia = (req, res) => {
+  res.status(200).json({ maessage: "file uploaded successfully" });
 };

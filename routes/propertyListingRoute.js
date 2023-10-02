@@ -6,6 +6,7 @@ import {
   getPropertyListing,
   getPropertyListings,
   updatePropertyListing,
+  uploadPropertyListingMedia,
 } from "../controllers/propertyListingController.js";
 
 import * as auth from "../middlewares/authMiddleware.js";
@@ -17,7 +18,8 @@ const storage = multer.diskStorage({
     cb(null, "./public/images");
   },
   filename: (req, file, cb) => {
-    cb(null, req.body.name);
+    console.log(file);
+    cb(null, file.originalname);
   },
 });
 
@@ -29,13 +31,7 @@ router
   .post("/add-propertylisting", auth.authorize, addPropertyListing)
   .post(
     "/upload-propertylistingmedia",
-    upload.single("file", (req, res) => {
-      try {
-        return res.status(200).json("File uploaded successfully");
-      } catch (error) {
-        console.log(error);
-      }
-    })
+    upload.single("property_media", uploadPropertyListingMedia)
   )
   .patch("/update-propertylisting/:id", auth.authorize, updatePropertyListing)
   .delete("/delete-propertylisting/:id", auth.authorize, deletePropertyListing);

@@ -1,13 +1,13 @@
 import userModel from "../models/userModel.js";
 import bcrypt from "bcrypt";
-import {
-  createAccessToken,
-  createRefreshToken,
-} from "../utils/token.js";
+import { createAccessToken, createRefreshToken } from "../utils/token.js";
 
 // Sign Up...
 export const signUpUser = async (req, res) => {
   const { fullname, email, phone_number, password, isAdmin } = req.body; //get data from client...
+
+  if (fullname === "" || password === "" || email === "" || phone_number === "")
+    return res.status(401).json({ message: "field cannot be empty" });
   //check the length of the password..
   if (password.length <= 5)
     return res

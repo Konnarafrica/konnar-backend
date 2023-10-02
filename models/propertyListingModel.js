@@ -44,6 +44,10 @@ const propertyListingSchema = new mongoose.Schema(
       type: String,
       required: true,
     },
+    area: {
+      type: [],
+      required: true,
+    },
     location: {
       lat: {
         type: Number,

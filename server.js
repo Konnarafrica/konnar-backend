@@ -15,8 +15,7 @@ import agentRoute from "./routes/agentRoute.js";
 const app = express();
 const PORT = process.env.PORT || 9000;
 const corsOptions = {
-  origin: ["https://konnar-v1.vercel.app/", "http://localhost:3000/"],
-  credentails: true,
+  origin: ["http://localhost:3000", "https://konnar-v1.vercel.app"],
 };
 
 // Middlewares...
@@ -24,7 +23,11 @@ app.use(bodyParser.json({ limit: "30mb", extended: true }));
 app.use(bodyParser.urlencoded({ limit: "30mb", extended: false }));
 app.use(cookieParser());
 app.use(cors(corsOptions));
- 
+
+//
+app.use(express.static("public"));
+app.use("/images", express.static("images"));
+
 // Routes initialization...
 app.use("/auth", authRoute);
 app.use("/feedback", feedbackRoute);
