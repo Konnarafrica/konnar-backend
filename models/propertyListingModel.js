@@ -1,4 +1,4 @@
-import mongoose from "mongoose";
+import mongoose, { Schema } from "mongoose";
 
 const propertyListingSchema = new mongoose.Schema(
   {
@@ -40,12 +40,14 @@ const propertyListingSchema = new mongoose.Schema(
         required: true,
       },
     },
-    agent_id: {
-      type: String,
+    agent: {
+      type: Schema.Types.ObjectId,
+      ref: "Agents",
       required: true,
     },
+
     area: {
-      type: [],
+      type: String,
       required: true,
     },
     location: {

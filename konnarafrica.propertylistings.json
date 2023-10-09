@@ -1,0 +1,6051 @@
+[{
+  "_id": {
+    "$oid": "650c3f849ab4b95c4a465753"
+  },
+  "title": "2 Bedroom",
+  "description": "This is two bedroom",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "popeopeoe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "location": {
+    "lat": 30,
+    "long": 22
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-21T13:05:08.818Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-21T13:05:08.818Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650c3f859ab4b95c4a465756"
+  },
+  "title": "2 Bedroom",
+  "description": "This is two bedroom",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "popeopeoe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "location": {
+    "lat": 30,
+    "long": 22
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-21T13:05:09.064Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-21T13:05:09.064Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650c3f859ab4b95c4a465759"
+  },
+  "title": "2 Bedroom",
+  "description": "This is two bedroom",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "popeopeoe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "location": {
+    "lat": 30,
+    "long": 22
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-21T13:05:09.450Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-21T13:05:09.450Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650c3f859ab4b95c4a46575c"
+  },
+  "title": "2 Bedroom",
+  "description": "This is two bedroom",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "popeopeoe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "location": {
+    "lat": 30,
+    "long": 22
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-21T13:05:09.892Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-21T13:05:09.892Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650c3fa07d84b1876ffde210"
+  },
+  "title": "2 Bedroom",
+  "description": "This is two bedroom",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "popeopeoe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "location": {
+    "lat": 30,
+    "long": 22
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-21T13:05:36.985Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-21T13:05:36.985Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650c3fa17d84b1876ffde213"
+  },
+  "title": "2 Bedroom",
+  "description": "This is two bedroom",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "popeopeoe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "location": {
+    "lat": 30,
+    "long": 22
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-21T13:05:37.975Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-21T13:05:37.975Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650c3fa27d84b1876ffde216"
+  },
+  "title": "2 Bedroom",
+  "description": "This is two bedroom",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "popeopeoe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "location": {
+    "lat": 30,
+    "long": 22
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-21T13:05:38.725Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-21T13:05:38.725Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650c3fa27d84b1876ffde219"
+  },
+  "title": "2 Bedroom",
+  "description": "This is two bedroom",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "popeopeoe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "location": {
+    "lat": 30,
+    "long": 22
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-21T13:05:38.865Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-21T13:05:38.865Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650c3fa37d84b1876ffde21c"
+  },
+  "title": "2 Bedroom",
+  "description": "This is two bedroom",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "popeopeoe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "location": {
+    "lat": 30,
+    "long": 22
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-21T13:05:39.033Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-21T13:05:39.033Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650c3fa37d84b1876ffde21f"
+  },
+  "title": "2 Bedroom",
+  "description": "This is two bedroom",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "popeopeoe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "location": {
+    "lat": 30,
+    "long": 22
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-21T13:05:39.304Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-21T13:05:39.304Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650c3faa7f0ca363a15ea8ab"
+  },
+  "title": "2 Bedroom",
+  "description": "This is two bedroom",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "popeopeoe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "location": {
+    "lat": 30,
+    "long": 22
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-21T13:05:46.645Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-21T13:05:46.645Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650c3fab7f0ca363a15ea8ae"
+  },
+  "title": "2 Bedroom",
+  "description": "This is two bedroom",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "popeopeoe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "location": {
+    "lat": 30,
+    "long": 22
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-21T13:05:47.724Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-21T13:05:47.724Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650c692627c044d21b456795"
+  },
+  "title": "2 Bedroom",
+  "description": "This is two bedroolm",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "popeopeoe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "location": {
+    "lat": 30,
+    "long": 22
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-21T16:02:46.458Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-21T16:02:46.458Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650c6963ae742179b77b5d86"
+  },
+  "title": "2 Bedroom",
+  "description": "This is two bedroolm",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "popeopeoe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "location": {
+    "lat": 30,
+    "long": 22
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-21T16:03:47.792Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-21T16:03:47.792Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650c6966ae742179b77b5d89"
+  },
+  "title": "2 Bedroom",
+  "description": "This is two bedroolm",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "popeopeoe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "location": {
+    "lat": 30,
+    "long": 22
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-21T16:03:50.464Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-21T16:03:50.464Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650dafdf4f99e791a3641724"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "650c3f849ab4b95c4a465752",
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-22T15:16:47.992Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-22T15:16:47.992Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650db0acbce508049f939365"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "650c3f849ab4b95c4a465752",
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-22T15:20:12.115Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-22T15:20:12.115Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650db0b1bce508049f939368"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "650c3f849ab4b95c4a465752",
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-22T15:20:17.569Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-22T15:20:17.569Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650db0b1bce508049f93936b"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "650c3f849ab4b95c4a465752",
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-22T15:20:17.809Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-22T15:20:17.809Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650db0b1bce508049f93936e"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "650c3f849ab4b95c4a465752",
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-22T15:20:17.937Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-22T15:20:17.937Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650db0b2bce508049f939371"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "650c3f849ab4b95c4a465752",
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-22T15:20:18.178Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-22T15:20:18.178Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650db0b2bce508049f939374"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "650c3f849ab4b95c4a465752",
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-22T15:20:18.591Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-22T15:20:18.591Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650db0b2bce508049f939377"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "650c3f849ab4b95c4a465752",
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-22T15:20:18.932Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-22T15:20:18.932Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650db13fe70af72aa5e4be02"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "650c3f849ab4b95c4a465752",
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-22T15:22:39.087Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-22T15:22:39.087Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650db140e70af72aa5e4be05"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "650c3f849ab4b95c4a465752",
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-22T15:22:40.185Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-22T15:22:40.185Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650db25e8f212296699d5f25"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "650c3f849ab4b95c4a465752",
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-22T15:27:26.152Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-22T15:27:26.152Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650db3878f212296699d5f28"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "650c3f849ab4b95c4a465702",
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-22T15:32:23.655Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-22T15:32:23.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651119d152a738bb425d160e"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "651116f5fde7fc79e91fc9b4",
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-25T05:25:37.985Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-25T05:25:37.985Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65111a1352a738bb425d1612"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "651116f5fde7fc79e91fc9b4",
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-25T05:26:43.291Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-25T05:26:43.291Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65111a8252a738bb425d1616"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "651116f5fde7fc79e91fc9b4",
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-25T05:28:34.410Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-25T05:28:34.410Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65111c009c99854a35c63cda"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-25T05:34:56.178Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-25T05:34:56.178Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65111c8ea9fed30c13239e11"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-25T05:37:18.570Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-25T05:37:18.570Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65111c94a9fed30c13239e15"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-25T05:37:24.251Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-25T05:37:24.251Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65111ca0a9fed30c13239e19"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-25T05:37:36.212Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-25T05:37:36.212Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65111d21e624038a94c91954"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-25T05:39:46.039Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-25T05:39:46.039Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65111d2ae624038a94c91958"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-25T05:39:54.067Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-25T05:39:54.067Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65111d2be624038a94c9195c"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-25T05:39:55.487Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-25T05:39:55.487Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65111d2ce624038a94c91960"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-25T05:39:56.633Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-25T05:39:56.633Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65111f86b044792266eeb0b5"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-25T05:49:58.831Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-25T05:49:58.831Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65120d044ebf87036c857131"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-25T22:43:16.669Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-25T22:43:16.669Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65120d3a8f5664f233f253a7"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-25T22:44:10.423Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-25T22:44:10.423Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65120d3f8f5664f233f253ab"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-25T22:44:15.560Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-25T22:44:15.560Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65120d408f5664f233f253af"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-25T22:44:16.418Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-25T22:44:16.418Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65120d418f5664f233f253b3"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-25T22:44:17.100Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-25T22:44:17.100Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65120d418f5664f233f253b7"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-25T22:44:17.754Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-25T22:44:17.754Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65120d428f5664f233f253bb"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-09-25T22:44:18.382Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-25T22:44:18.382Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651a6c734205499077aa809a"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-02T07:08:35.626Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-02T07:08:35.626Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c15f77bbe1abb2b9203ca"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:20.057Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:20.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16087bbe1abb2b9203ce"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:24.755Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:24.755Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16097bbe1abb2b9203d2"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:25.412Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:25.412Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16097bbe1abb2b9203d6"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:26.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:26.299Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c160a7bbe1abb2b9203da"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:26.714Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:26.714Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c160b7bbe1abb2b9203de"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:27.265Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:27.265Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c160b7bbe1abb2b9203e2"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:27.770Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:27.770Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c160c7bbe1abb2b9203e6"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:28.327Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:28.327Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c160c7bbe1abb2b9203ea"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:28.631Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:28.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c160d7bbe1abb2b9203ee"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:29.383Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:29.383Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c160d7bbe1abb2b9203f2"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:29.810Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:29.810Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c160e7bbe1abb2b9203f6"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:30.590Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:30.590Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c160e7bbe1abb2b9203fa"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:30.825Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:30.825Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c160f7bbe1abb2b9203fe"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:31.151Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:31.151Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c160f7bbe1abb2b920402"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:31.539Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:31.539Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c160f7bbe1abb2b920406"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:31.838Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:31.838Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16107bbe1abb2b92040a"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:32.597Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:32.597Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16107bbe1abb2b92040e"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:33.099Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:33.099Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16117bbe1abb2b920412"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:33.261Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:33.261Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16117bbe1abb2b920416"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:33.615Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:33.615Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16117bbe1abb2b92041a"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:33.909Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:33.909Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16127bbe1abb2b92041e"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:34.275Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:34.275Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16127bbe1abb2b920422"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:34.598Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:34.598Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16127bbe1abb2b920426"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:35.055Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:35.055Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16137bbe1abb2b92042a"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:35.686Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:35.686Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16137bbe1abb2b92042e"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:36.007Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:36.007Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16147bbe1abb2b920432"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:36.488Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:36.488Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16147bbe1abb2b920436"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:36.814Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:36.814Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16157bbe1abb2b92043a"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:37.239Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:37.239Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16157bbe1abb2b92043e"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:37.710Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:37.710Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16167bbe1abb2b920442"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:38.172Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:38.172Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16167bbe1abb2b920446"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:38.637Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:38.637Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16177bbe1abb2b92044a"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:39.412Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:39.412Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16177bbe1abb2b92044e"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:39.963Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:39.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16187bbe1abb2b920452"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:40.205Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:40.205Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16187bbe1abb2b920456"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:40.532Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:40.532Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16187bbe1abb2b92045a"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:41.430Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:41.430Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16197bbe1abb2b92045e"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:41.666Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:41.666Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c161a7bbe1abb2b920462"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:42.100Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:42.100Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c161a7bbe1abb2b920466"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:42.654Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:42.654Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c161b7bbe1abb2b92046a"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:43.431Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:43.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c161b7bbe1abb2b92046e"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:43.937Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:43.937Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c161c7bbe1abb2b920472"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:44.509Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:44.509Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c161d7bbe1abb2b920476"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:45.035Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:45.035Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c161d7bbe1abb2b92047a"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:45.674Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:45.674Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c161e7bbe1abb2b92047e"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:46.035Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:46.035Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c161e7bbe1abb2b920482"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:46.610Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:46.610Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c161e7bbe1abb2b920486"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:46.907Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:46.907Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c161f7bbe1abb2b92048a"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:47.214Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:47.214Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c161f7bbe1abb2b92048e"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:24:47.540Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:24:47.540Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16b57bbe1abb2b920638"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:17.379Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:17.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16b57bbe1abb2b92063c"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:17.922Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:17.922Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16b67bbe1abb2b920640"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:18.216Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:18.216Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16b67bbe1abb2b920644"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:18.548Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:18.548Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16b67bbe1abb2b920648"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:18.906Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:18.906Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16b77bbe1abb2b92064c"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:19.435Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:19.435Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16b77bbe1abb2b920650"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:19.649Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:19.649Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16b77bbe1abb2b920654"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:19.886Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:19.886Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16b87bbe1abb2b920658"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:20.084Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:20.084Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16b87bbe1abb2b92065c"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:20.311Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:20.311Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16b87bbe1abb2b920660"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:20.571Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:20.571Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16b87bbe1abb2b920664"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:20.777Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:20.777Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16b97bbe1abb2b920668"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:21.028Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:21.028Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16b97bbe1abb2b92066c"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:21.295Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:21.295Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16b97bbe1abb2b920670"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:21.545Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:21.545Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16b97bbe1abb2b920674"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:21.826Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:21.826Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16ba7bbe1abb2b920678"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:22.094Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:22.094Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16ba7bbe1abb2b92067c"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:22.378Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:22.378Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16ba7bbe1abb2b920680"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:22.669Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:22.669Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16ba7bbe1abb2b920684"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:22.936Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:22.936Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16bb7bbe1abb2b920688"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:23.198Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:23.198Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16bb7bbe1abb2b92068c"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:23.477Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:23.477Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16bb7bbe1abb2b920690"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:23.774Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:23.774Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16bc7bbe1abb2b920694"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:24.073Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:24.073Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16bc7bbe1abb2b920698"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:24.371Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:24.371Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16bc7bbe1abb2b92069c"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:24.711Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:24.711Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16bd7bbe1abb2b9206a0"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:25.009Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:25.009Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16bd7bbe1abb2b9206a4"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:25.306Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:25.306Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16bd7bbe1abb2b9206a8"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:25.617Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:25.617Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16bd7bbe1abb2b9206ac"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:25.948Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:25.948Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16be7bbe1abb2b9206b0"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:26.431Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:26.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16be7bbe1abb2b9206b4"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:26.582Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:26.582Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16be7bbe1abb2b9206b8"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:26.909Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:26.909Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16bf7bbe1abb2b9206bc"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:27.250Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:27.250Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16bf7bbe1abb2b9206c0"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:27.547Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:27.547Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16bf7bbe1abb2b9206c4"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:27.907Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:27.907Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16c07bbe1abb2b9206c8"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:28.250Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:28.250Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16c07bbe1abb2b9206cc"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:28.577Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:28.577Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16c07bbe1abb2b9206d0"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:28.949Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:28.949Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16c17bbe1abb2b9206d4"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:29.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:29.336Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16c17bbe1abb2b9206d8"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:29.624Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:29.624Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16c17bbe1abb2b9206dc"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:29.965Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:29.965Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16c27bbe1abb2b9206e0"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:30.325Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:30.325Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16c27bbe1abb2b9206e4"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:30.657Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:30.657Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16c27bbe1abb2b9206e8"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:30.995Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:30.995Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16c37bbe1abb2b9206ec"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:31.369Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:31.369Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16c37bbe1abb2b9206f0"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:31.761Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:31.761Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16c47bbe1abb2b9206f4"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:32.053Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:32.053Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16c47bbe1abb2b9206f8"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:32.420Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:32.420Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16c47bbe1abb2b9206fc"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:32.764Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:32.764Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16c57bbe1abb2b920700"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:33.088Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:33.088Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16c57bbe1abb2b920704"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:33.434Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:33.434Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16c57bbe1abb2b920708"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:33.758Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:33.758Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16c67bbe1abb2b92070c"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:34.118Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:34.118Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16c67bbe1abb2b920710"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:34.463Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:34.463Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16c67bbe1abb2b920714"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:34.821Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:34.821Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16c77bbe1abb2b920718"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:35.163Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:35.163Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16c77bbe1abb2b92071c"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:35.538Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:35.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16c77bbe1abb2b920720"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:35.863Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:35.863Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16c87bbe1abb2b920724"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:36.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:36.211Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16c87bbe1abb2b920728"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:36.535Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:36.535Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16c87bbe1abb2b92072c"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:36.870Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:36.870Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16c97bbe1abb2b920730"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:37.250Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:37.250Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16c97bbe1abb2b920734"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:37.585Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:37.585Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16c97bbe1abb2b920738"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:37.896Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:37.896Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16ca7bbe1abb2b92073c"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:38.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:38.225Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16ca7bbe1abb2b920740"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:38.573Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:38.573Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16ca7bbe1abb2b920744"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:38.913Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:38.913Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16cb7bbe1abb2b920748"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:39.226Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:39.226Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16cb7bbe1abb2b92074c"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:39.585Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:39.585Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c16cb7bbe1abb2b920750"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": [
+    "Ogudu",
+    "Ikeja"
+  ],
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-03T13:27:39.929Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T13:27:39.929Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651d62540f512950b349bba1"
+  },
+  "title": "Self COntain",
+  "description": "This is a bungalow",
+  "key_features": [],
+  "amenities": [
+    "Light"
+  ],
+  "property_media": [
+    "poe"
+  ],
+  "cost": {
+    "rent": 15000,
+    "agent_fee": 20000,
+    "legal_fee": 15000,
+    "security_deposit": 10000
+  },
+  "agent_id": "65111bd99c99854a35c63cd8",
+  "area": "Ogudu",
+  "location": {
+    "lat": 30,
+    "long": 28
+  },
+  "availability_status": false,
+  "createdAt": {
+    "$date": "2023-10-04T13:02:13.872Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-04T13:02:13.872Z"
+  },
+  "__v": 0
+}]

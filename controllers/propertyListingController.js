@@ -18,10 +18,23 @@ export const addPropertyListing = async (req, res) => {
     property_media,
     cost,
     area,
-    agent_id,
+    agent,
     location,
     availability_status,
   } = req.body;
+
+  const rent = cost;
+  const legal_fee = (5 / 100) * parseInt(rent);
+  const agent_fee = (10 / 100) * parseInt(rent);
+  const security_deposit = rent / 12;
+  console.log(legal_fee, rent, agent_fee, security_deposit.toFixed(2));
+
+  const computed_cost = {
+    rent: rent,
+    agent_fee: agent_fee,
+    legal_fee: legal_fee,
+    security_deposit: security_deposit.toFixed(2),
+  };
 
   //create a new instance of the property to be saved...
   const newPropertyListing = new propertyListingModel({
@@ -30,15 +43,15 @@ export const addPropertyListing = async (req, res) => {
     key_features,
     amenities,
     property_media,
-    cost,
+    cost: computed_cost,
     area,
-    agent_id,
+    agent,
     location,
     availability_status,
   });
 
   try {
-    const agent_has_propertyListing = await agentModel.findById(agent_id); //get the agent with property for showcase...
+    const agent_has_propertyListing = await agentModel.findById(agent); //get the agent with property for showcase...
     // console.log(agent_has_propertyListing)
     if (agent_has_propertyListing) {
       const newPropertyListing_id = newPropertyListing._id.toString(); //convert the mongodb objectId to plain string...
@@ -110,12 +123,24 @@ export const addPropertyListing = async (req, res) => {
 
 // get all PropertyListings...
 export const getPropertyListings = async (req, res) => {
+  // const { _page } = req.query;
+  // const page = _page || 0;
+  // const propertyPerPage = 15;
+  //       .skip(page * propertyPerPage)
+  //     .limit(propertyPerPage);
+
   try {
-    const allpropertyListings = await propertyListingModel.find(); //find all properties from the database...
+    const allpropertyListings = await propertyListingModel
+      .find()
+      .sort({ createdAt: -1 });
+
+    //find all properties from the database...
+
     if (!allpropertyListings)
       return res
         .status(404)
         .json({ message: "no property was found in record..." });
+
     res.status(200).json({
       message: "all properties retrieved successfully...",
       allpropertyListings,
@@ -130,7 +155,9 @@ export const getPropertyListing = async (req, res) => {
   const { id } = req.params; //get id parameter
 
   try {
-    const propertylisting = await propertyListingModel.findById(id); //find property with this id...
+    const propertylisting = await propertyListingModel
+      .findById(id)
+      .populate("agent", {}); //find property with this id...
     if (!propertylisting)
       return res
         .status(404)

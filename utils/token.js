@@ -12,7 +12,10 @@ export const verifyRefreshToken = (token) =>
 export const verifyAccessToken = (token, req, res, next) =>
   jwt.verify(token, process.env.JWT_ACCESS_TOKEN_SECRET, (err, decode) => {
     if (err) {
-      res.status(401).send({ message: "Invalid Token, you need to login" });
+      res.status(401).send({
+        type: "token error",
+        message: "Invalid Token, you need to login",
+      });
     } else {
       req.user = decode;
       next();
