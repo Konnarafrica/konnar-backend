@@ -15,15 +15,6 @@ const agentSchema = mongoose.Schema(
       },
     ],
     no_of_properties: { type: [String] },
-    area_of_operation: { type: [String] },
-    reviews: [
-      {
-        id: String,
-        review_msg: String,
-        name_of_user: String,
-      },
-    ],
-    rating: { type: Number, max: 5, default: 0 },
   },
   { timestamps: true }
 );
