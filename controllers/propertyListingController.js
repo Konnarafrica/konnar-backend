@@ -245,44 +245,50 @@ export const searchPropertyListings = async (req, res) => {
         title: searchWord,
       });
 
-      if (findPropertyByTitle.length == 0) {
+      if (findPropertyByTitle.length > 0) {
         return res.status(200).json({
           message: "properties with this title successfully retrieved",
           filteredSearch: findPropertyByTitle,
         });
-      }
-
-      // console.log(findPropertyByTitle)
-    }
+      } else
+        return res.status(404).json({
+          message: "no property with this area found!!",
+        });
+      
+    } else
+      return res.status(200).json({
+        message: "properties with this title successfully retrieved",
+        filteredSearch: findPropertyByArea,
+      });
 
     // console.log(findPropertyByArea);
     // console.log(findPropertyByTitle);
 
-    if (findPropertyByArea.length == 0)
-      return res
-        .status(404)
-        .json({ message: "no property with this area found..." });
+    // if (findPropertyByArea.length == 0)
+    //   return res
+    //     .status(404)
+    //     .json({ message: "no property with this area found..." });
 
     // if (findPropertyByTitle.length == 0)
     //   return res
     //     .status(404)
     //     .json({ message: "no properties with this title found..." });
 
-    if (findPropertyByArea.length > 0) {
-      return res.status(200).json({
-        message: "properties with this area successfully retrieved",
-        filteredSearch: findPropertyByArea,
-      });
-    }
+    // if (findPropertyByArea.length > 0) {
+    //   return res.status(200).json({
+    //     message: "properties with this area successfully retrieved",
+    //     filteredSearch: findPropertyByArea,
+    //   });
+    // }
 
-    if (findPropertyByTitle.length > 0) {
-      return res.status(200).json({
-        message: "properties with this title successfully retrieved",
-        filteredSearch: findPropertyByTitle,
-      });
-    }
+    // if (findPropertyByTitle.length > 0) {
+    //   return res.status(200).json({
+    //     message: "properties with this title successfully retrieved",
+    //     filteredSearch: findPropertyByTitle,
+    //   });
+    // }
   } catch (error) {
-    res.status(500).json({ error: error.message });
+    return res.status(500).json({ error: error.message });
   }
 };
 
