@@ -224,6 +224,68 @@ export const deletePropertyListing = async (req, res) => {
   }
 };
 
+// search propertyListings
+export const searchPropertyListings = async (req, res) => {
+  console.log(req.query);
+
+  const { searchWord } = req.query;
+
+  // const query = {};
+
+  // query.title = searchWord;
+  // query.area = searchWord;
+
+  try {
+    const findPropertyByArea = await propertyListingModel.find({
+      area: searchWord,
+    });
+
+    if (findPropertyByArea.length == 0) {
+      const findPropertyByTitle = await propertyListingModel.find({
+        title: searchWord,
+      });
+
+      if (findPropertyByTitle.length == 0) {
+        return res.status(200).json({
+          message: "properties with this title successfully retrieved",
+          filteredSearch: findPropertyByTitle,
+        });
+      }
+
+      // console.log(findPropertyByTitle)
+    }
+
+    // console.log(findPropertyByArea);
+    // console.log(findPropertyByTitle);
+
+    if (findPropertyByArea.length == 0)
+      return res
+        .status(404)
+        .json({ message: "no property with this area found..." });
+
+    // if (findPropertyByTitle.length == 0)
+    //   return res
+    //     .status(404)
+    //     .json({ message: "no properties with this title found..." });
+
+    if (findPropertyByArea.length > 0) {
+      return res.status(200).json({
+        message: "properties with this area successfully retrieved",
+        filteredSearch: findPropertyByArea,
+      });
+    }
+
+    if (findPropertyByTitle.length > 0) {
+      return res.status(200).json({
+        message: "properties with this title successfully retrieved",
+        filteredSearch: findPropertyByTitle,
+      });
+    }
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+};
+
 // upload a property media...
 
 export const uploadPropertyListingMedia = (req, res) => {

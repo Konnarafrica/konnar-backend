@@ -7,6 +7,7 @@ import {
   getPropertyListings,
   updatePropertyListing,
   uploadPropertyListingMedia,
+  searchPropertyListings,
 } from "../controllers/propertyListingController.js";
 
 import * as auth from "../middlewares/authMiddleware.js";
@@ -28,6 +29,7 @@ const upload = multer({ storage: storage });
 router
   .get("/get-propertylistings", auth.authorize, getPropertyListings)
   .get("/get-propertylisting/:id", auth.authorize, getPropertyListing)
+  .get("/search-propertylistings", searchPropertyListings)
   .post("/add-propertylisting", auth.authorize, addPropertyListing)
   .post(
     "/upload-propertylistingmedia",
