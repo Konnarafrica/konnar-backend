@@ -11,11 +11,12 @@ import authRoute from "./routes/authRoute.js";
 import feedbackRoute from "./routes/feedbackRoute.js";
 import propertyListingRoute from "./routes/propertyListingRoute.js";
 import agentRoute from "./routes/agentRoute.js";
+import uploadRoute from "./routes/uploadRoute.js";
 
 const app = express();
 const PORT = process.env.PORT || 9000;
 const corsOptions = {
-  origin: ["http://localhost:3000", "https://konnar-v1.vercel.app"],
+  origin: ["http://localhost:3000", "https://konnar-v1.vercel.app", "http://localhost:3001"],
 };
 
 // Middlewares...
@@ -28,11 +29,14 @@ app.use(cors(corsOptions));
 app.use(express.static("public"));
 app.use("/images", express.static("images"));
 
+app.get('/', (req, res, next) => res.status(200).send('service is up'));
+
 // Routes initialization...
 app.use("/auth", authRoute);
 app.use("/feedback", feedbackRoute);
 app.use("/property", propertyListingRoute);
 app.use("/agent", agentRoute);
+app.use("/upload", uploadRoute);
 
 const startServer = async () => {
   await connectDB();
