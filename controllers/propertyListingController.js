@@ -254,7 +254,6 @@ export const searchPropertyListings = async (req, res) => {
         return res.status(404).json({
           message: "no property with this area found!!",
         });
-      
     } else
       return res.status(200).json({
         message: "properties with this title successfully retrieved",

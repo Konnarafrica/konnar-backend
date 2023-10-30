@@ -12,6 +12,8 @@ import feedbackRoute from "./routes/feedbackRoute.js";
 import propertyListingRoute from "./routes/propertyListingRoute.js";
 import agentRoute from "./routes/agentRoute.js";
 import uploadRoute from "./routes/uploadRoute.js";
+import userRoute from "./routes/userRoute.js";
+
 
 const app = express();
 const PORT = process.env.PORT || 9000;
@@ -37,6 +39,7 @@ app.use("/feedback", feedbackRoute);
 app.use("/property", propertyListingRoute);
 app.use("/agent", agentRoute);
 app.use("/upload", uploadRoute);
+app.use("/user", userRoute);
 
 const startServer = async () => {
   await connectDB();
