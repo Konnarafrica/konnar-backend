@@ -83,7 +83,16 @@ export const addAgent = async (req, res) => {
       .status(403)
       .json({ message: "only admins can perform this operation..." });
 
-  const { email, phone_number } = req.body;
+  const { email, phone_number, full_name, bio, picture } = req.body;
+
+  if (
+    !full_name ||
+    !email ||
+    !phone_number ||
+    !bio ||
+    !picture
+  )
+    return res.status(403).json({ message: "fields cannot be empty" });
 
   const checkEmail = await agentModel.findOne({ email: email });
   const checkPhoneNumber = await agentModel.findOne({
@@ -98,11 +107,9 @@ export const addAgent = async (req, res) => {
 
   // CHECK IF PHONE NUMBER ALREADY EXIST
   if (checkPhoneNumber)
-    return res
-      .status(405)
-      .json({
-        message: "Agent with this phone number already exist already exist",
-      });
+    return res.status(405).json({
+      message: "Agent with this phone number already exist already exist",
+    });
 
   // console.log(data)
 
@@ -118,7 +125,8 @@ export const addAgent = async (req, res) => {
   } catch (error) {
     if (error.code === 11000)
       return res.status(403).json({
-        error: "sorry an agent with this email or phone number already exists...",
+        error:
+          "sorry an agent with this email or phone number already exists...",
       });
     res.status(501).json({ error: error.message });
   }
