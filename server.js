@@ -18,7 +18,7 @@ import userRoute from "./routes/userRoute.js";
 const app = express();
 const PORT = process.env.PORT || 9000;
 const corsOptions = {
-  origin: ["http://localhost:3000", "https://konnar-v1.vercel.app", "http://localhost:3001"],
+  origin: '*',
 };
 
 // Middlewares...
